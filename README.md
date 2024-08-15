@@ -1,1 +1,2 @@
-# Aplicacoes-de-Processamento-Digital-de-Audio-Profissional
+# Aplicações de Processamento Digital de Áudio Profissional      
+[Trabalho Final - Equalizador](https://github.com/OsvaldoUfla/equalizador.git)
